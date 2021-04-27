@@ -21,7 +21,7 @@ Facebook is hiring! It has been your ultimate goal and dream scince university t
  
 ## Knowledge Officer Robric
 <p align="center">
-<img src="https://github.com/yarahisham/Facebook_Marketplace-AB_Testing/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.01.56%20PM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/Facebook_Marketplace-AB_Testing/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.01.56%20PM.jpg" alt="alt text" width="700" height="450" >
 </p>
 
 <p align="center">
